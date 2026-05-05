@@ -1,4 +1,4 @@
-module github.com/dependabot/vgotest
+module github.com/dependabot/module-b
 
 go 1.12
 
